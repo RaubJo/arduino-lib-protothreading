@@ -2,12 +2,7 @@
 #define PROTOTHREADING_H
 
 #include "Arduino.h"
-/*
-+==============================================+
-|This file is the original work of Joseph Raub |
-| For use with the EPL MakerSpace  2017        |
-+==============================================+
-*/
+
 class Thread
 {
     private:
