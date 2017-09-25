@@ -1,0 +1,4 @@
+Thread	KEYWORD1
+setCycleSpeed	KEYWORD2
+cycle	KEYWORD2
+setFunc	KEYWORD2
