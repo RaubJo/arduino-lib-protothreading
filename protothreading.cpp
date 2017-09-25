@@ -1,11 +1,6 @@
 #include "protothreading.h"
 #include "Arduino.h"
-/*
-+==============================================+
-|This file is the original work of Joseph Raub |
-| For use with the EPL MakerSpace  2017        |
-+==============================================+
-*/
+
 void Thread::fire(){
     if((current_msec - last_msec) >= time){
         last_msec = current_msec;
